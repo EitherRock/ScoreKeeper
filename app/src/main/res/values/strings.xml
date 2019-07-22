@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="Player2Score">20</string>
+    <string name="PlayerTwoSide">Payer two side color</string>
+    <string name="player1Side">Player one side color</string>
+    <string name="SubButTxt"><![CDATA[<]]></string>
+    <string name="PlayerAddButTxt"><![CDATA[>]]></string>
+    <string name="Player1Score">20</string>
+    <string name="resetTxt">RESET</string>
+</resources>
